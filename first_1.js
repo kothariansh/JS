@@ -1,4 +1,1 @@
-function test() {
-    console.log(this);
-}
-test();
+//Area of a circle = PI * (radius)^2

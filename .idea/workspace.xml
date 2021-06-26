@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="015ad79b-bc66-4b09-8370-f781c7b2765e" name="Default Changelist" comment="" />
+    <list default="true" id="015ad79b-bc66-4b09-8370-f781c7b2765e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Randoms/circle_area.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Randoms/randoms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circle_area.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/first_1.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,12 +33,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Basic syntax" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Randoms" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ansh Kothari\Documents\JS\Randoms" />
       <recent name="C:\Users\Ansh Kothari\Documents\JS\Basic syntax" />
     </key>
   </component>
@@ -46,7 +55,7 @@
       <workItem from="1624475121353" duration="552000" />
       <workItem from="1624475710782" duration="8321000" />
       <workItem from="1624655861039" duration="1139000" />
-      <workItem from="1624733918157" duration="1473000" />
+      <workItem from="1624733918157" duration="2620000" />
     </task>
     <servers />
   </component>
